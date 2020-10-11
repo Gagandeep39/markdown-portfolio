@@ -1,0 +1,4 @@
+- :kissing_heart: Exploring
+- :heart_eyes: Playing Violin
+- :sparkles:Taking long walks
+- :musical_note: Listening Music
