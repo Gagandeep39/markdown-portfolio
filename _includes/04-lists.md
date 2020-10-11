@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- :kissing_heart: Exploring
+- :heart_eyes: Playing Violin
+- :sparkles:Taking long walks
+- :musical_note: Listening Music
